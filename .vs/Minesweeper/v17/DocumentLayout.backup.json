@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B001919C-18A3-D42C-2F2B-CCCDB9C9BB1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B001919C-18A3-D42C-2F2B-CCCDB9C9BB1A}|Assembly-CSharp.csproj|c:\\users\\mihaj\\onedrive\\documents\\github\\minesweeper\\minesweeper\\assets\\scripts\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B001919C-18A3-D42C-2F2B-CCCDB9C9BB1A}|Assembly-CSharp.csproj|C:\\Users\\mihaj\\OneDrive\\Documents\\GitHub\\Minesweeper\\Minesweeper\\assets\\scripts\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B001919C-18A3-D42C-2F2B-CCCDB9C9BB1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\BoardManager.cs",
               "ToolTip": "C:\\Users\\mihaj\\OneDrive\\Documents\\GitHub\\Minesweeper\\Minesweeper\\Assets\\Scripts\\BoardManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\BoardManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwB8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T12:01:22.593Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Tile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T12:01:02.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T12:01:02.355Z"
             }
           ]
         }
